@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 <h5>CI/CD and Others</h5>
 <p >
-  <img src="https://img.shields.io/badge/-docker-blue?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-jenkins-lightgrey?&style=for-the-badge&logo=jenkins&logoColor=red" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-octopus%20Deploy-blue" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-redis-lightgrey?&style=for-the-badge&logo=redis&logoColor=red" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-AWS-yellow?&style=for-the-badge&logo=aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-docker-blue?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-jenkins-lightgrey?&style=for-the-badge&logo=jenkins&logoColor=red" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-octopus%20Deploy-blue" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-redis-lightgrey?&style=for-the-badge&logo=redis&logoColor=red" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-AWS-yellow?&style=for-the-badge&logo=aws&logoColor=white" /> &nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-PACKER-blue?&style=for-the-badge&logo=packer&logoColor=white" />&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-Terraform-blueviolet?&style=for-the-badge&logo=terraform&logoColor=white" /> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-ANSIBLE-yellow?&style=for-the-badge&logo=ansible&logoColor=white" />
 </p>
 <hr>
 
