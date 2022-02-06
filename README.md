@@ -58,7 +58,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-c%23-lightgrey?&style=for-the-badge&logo=c-sharp&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-laravel-red?&style=for-the-badge&logo=laravel&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-nodejs-green?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
-<h5>CI/CD and Others</h5>
+<h5>DevOps / Infrastructure</h5>
 <p >
   <img src="https://img.shields.io/badge/-docker-blue?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-jenkins-lightgrey?&style=for-the-badge&logo=jenkins&logoColor=red" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-octopus%20Deploy-blue" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-redis-lightgrey?&style=for-the-badge&logo=redis&logoColor=red" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-AWS-yellow?&style=for-the-badge&logo=aws&logoColor=white" /> &nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-PACKER-blue?&style=for-the-badge&logo=packer&logoColor=white" />&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-Terraform-blueviolet?&style=for-the-badge&logo=terraform&logoColor=white" /> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-ANSIBLE-yellow?&style=for-the-badge&logo=ansible&logoColor=white" />
 </p>
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 <h4>🌱 I'm currently learning...</h4>
 <p >
-  <img src="https://img.shields.io/badge/-kubernetes-blue?&style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-microservices-yellowgreen?&style=for-the-badge&logo=microservice&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-kubernetes-blue?&style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
 
