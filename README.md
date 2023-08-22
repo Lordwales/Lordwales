@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there 👋, I'm Olawale  👦💻 </h1>
 
 <p align='center'>
-  I live in Lagos, Nigeria and work at <b>VENTURE GARDEN GROUP</b> 
+  I live in Lagos, Nigeria and work remotely at <b>SUPERSIDE</b> 
 </p>
 
 <!-- <p align='center'>
