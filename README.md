@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <p align='right'>
 <h4>💬 Sometimes I like to write things here...</h4>
-  <a href="https://github.com/Lordwales/"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://lordwales.hashnode.dev/"><img src="https://img.shields.io/badge/hashnode-blue?logo=hashnode" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Lordwales/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -85,5 +85,6 @@ Here are some ideas to get you started:
   <h5 align="right">🎮 To have fun and spend time...</h5>
 </p>
 -->
+https://img.shields.io/badge/hashnode-blue?logo=hashnode
 
 
